@@ -1,2 +1,2 @@
 #### test
-test
+test print("Hello, world")
